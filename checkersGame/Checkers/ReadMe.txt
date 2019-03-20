@@ -1,0 +1,1 @@
+To access this game, all files must be copied into a folder named "Checkers". Then, the Checkers.java and Point.java files need to be opened and ran in a java IDE.
